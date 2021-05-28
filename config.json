@@ -1,0 +1,12 @@
+{
+    "discord-token": "token",
+    "discord-guild-id": "guild-id",
+    "discord-channel-id": "channel-id",
+    "discord-char-limit-err": "That message reached the character limit, try again with a shorter message",
+    "mc-email": "email",
+    "mc-pass": "pass",
+    "mc-ip": "ip",
+    "mc-version": "version",
+    "mc-prefix": "(Discord) ",
+    "mc-char-limit": 100
+}
